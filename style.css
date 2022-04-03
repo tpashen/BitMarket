@@ -12,7 +12,7 @@ header {
 
 .button {
     background-color: #36bbce;
-    color: white;
+    color: #white;
     text-decoration: none;
     padding: 15px;
     font-size: 24px;
@@ -21,15 +21,15 @@ header {
 
 nav {
     display: flex;
-    border-top: 5px solid white;
-    border-bottom: 5px solid white;
+    border-top: 5px solid #white;
+    border-bottom: 5px solid #white;
     padding: 25px 100px 25px 95px;
     justify-content: space-between;
 }
 
 .nav-link {
     font-size: 24px;
-    color: white;
+    color: #white;
     text-decoration: none;
 }
 
@@ -61,8 +61,8 @@ article {
 
 .article-but {
     text-decoration: none;
-    background-color:purple;
-    color:white;
+    background-color:#purple;
+    color:#white;
     font-size: 24px;
     text-align: center;
     padding: 10px 75px 10px 75px;
@@ -70,8 +70,8 @@ article {
 
 footer {
     display: flex;
-    background-color: black;
-    color: white;
+    background-color: #black;
+    color: #white;
     padding: 20px;
 }
 
